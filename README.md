@@ -72,7 +72,7 @@ I’m currently focused on mastering full-stack projects and preparing for **int
 
 ## 🌐 Connect with Me  
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin">
+  <a href="https://www.linkedin.com/in/chirag-chaudhary-06a48825b">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" width="90" height="30" style="margin-right: 15px;" />
   </a>
   <a href="https://github.com/ChiragChaudhary01">
