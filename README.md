@@ -11,7 +11,7 @@ I’m currently focused on mastering full-stack projects and preparing for **int
 
 ## 🚀 About Me  
 
-- 🎓 **B.Tech in Information Technology** (7th Semester)  
+- 🎓 **B.Tech in Information Technology**  
 - 💡 Interested in **MERN Stack**, **Cloud Deployment**, and **Web Application Development**  
 - 🌱 Currently learning **Advanced MERN Concepts**, **SQL**, and **Agile Practices**  
 - 💻 Proficient in **MongoDB, Express.js, React.js, Node.js, JavaScript, HTML, CSS**  
